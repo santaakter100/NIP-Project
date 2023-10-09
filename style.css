@@ -89,6 +89,10 @@ body {
 .art img {
   width: 100%;
 }
+.logo:hover {
+  border: 2px solid rgb(10, 133, 248);
+  
+}
 .together-Teacher{
   width: 100px;
   margin: 80px;
